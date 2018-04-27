@@ -1,22 +1,22 @@
 {
-    "name": "<YOUR NAME>",
+    "name": "Abhinav Pelapudi",
     "netlify_subdomain": "<YOUR NETLIFY URL>",
     "optional_dns": "<YOUR CUSTOM DOMAIN NAME IF YOU HAVE ONE OR PLAN TO USE ONE>"
     "blog_post_1": {
-        "title": "<TITLE1>",
+        "title": "how to make a good dataset using python",
         "url": "<MEDIUM OR WEB URL>",
         "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
     },
     "blog_post_2": {
-        "title": "<TITLE2>",
+        "title": "how to visualize data uisng python",
         "url": "<MEDIUM OR WEB URL>",
         "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
     },
     "blog_post_3": {
-        "title": "<TITLE3>",
+        "title": "build a machine learning model in 30 minutes with python",
         "url": "<MEDIUM OR WEB URL>",
         "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
     },
-    "my_linkedin": "<URL TO LINKEDIN>",
+    "my_linkedin": "linkedin.com/in/abhinavpelapudi",
     "latex": "<YOUR LATEX (REMEMBER VALID JSON)>"
 }
