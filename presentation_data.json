@@ -13,10 +13,11 @@
         "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
     },
     "blog_post_3": {
-        "title": "build a machine learning model in 30 minutes with python",
+        "title": "build a movie recommendation system in 30 minutes with python",
         "url": "<MEDIUM OR WEB URL>",
         "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
     },
     "my_linkedin": "linkedin.com/in/abhinavpelapudi",
-    "latex": "<YOUR LATEX (REMEMBER VALID JSON)>"
+    "latex": "latex.html",
+    "code": " $\begin{bmatrix} 9  &  9      \\ 6  &  10     \\ 5  &  7 \end{bmatrix} =  \begin{bmatrix}1  &  0  & 1     \\0  &  1  & 1     \\ 0  &  0  & 1\end{bmatrix} .\begin{bmatrix}4  &  2       \\1  &  3       \\9  &  7 \end{bmatrix} $"
 }
